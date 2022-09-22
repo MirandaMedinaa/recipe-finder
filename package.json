@@ -1,0 +1,55 @@
+{
+  "name": "recipe-wars-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "postinstall": "npm run build",
+    "production": "node server.js"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^5.10.1",
+    "@fullcalendar/daygrid": "^5.10.1",
+    "@fullcalendar/list": "^5.10.1",
+    "@fullcalendar/timegrid": "^5.10.1",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "node-sass": "^6.0.1",
+    "register-service-worker": "^1.7.1",
+    "sass-loader": "^10.1.1",
+    "vue": "^2.6.11",
+    "vue-bootstrap-calendar": "^1.3.6",
+    "vue-full-calendar": "^2.8.1-0",
+    "vue-router": "^3.2.0",
+    "vue-typeahead-bootstrap": "^2.12.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-pwa": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.46.0"
+  },
+  "vue": {
+    "pwa": {
+      "name": "Beginner's Kitchen",
+      "short_name": "Beginner's Kitchen",
+      "themeColor": "#79a33d",
+      "iconPaths": {
+        "favicon32": "img/icons/favicon-32x32.png",
+        "favicon16": "img/icons/favicon-16x16.png",
+        "appleTouchIcon": "img/icons/apple-touch-icon-152x152.png",
+        "maskIcon": "img/icons/safari-pinned-tab.svg",
+        "msTileImage": "img/icons/msapplication-icon-144x144.png"
+      }
+    }
+  }
+}

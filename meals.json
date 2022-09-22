@@ -1,0 +1,230 @@
+[
+  {
+    "id:": 1,
+    "title": "Veggie Pizza",
+    "skill_level": "Easy",
+    "time": "60 minutes",
+    "recipe_url": "pizza.jpg",
+    "description": "Onion and pepper pizza that feeds 2",
+    "ingredients": [
+      "Two cans of crescent roll dough. ",
+      "Two 8-ounce packages of cream cheese. ",
+      "Mayonnaise. (some cooks prefer sour cream instead)",
+      "Packet of ranch dressing mix.",
+      "Shredded cheddar cheese. ",
+      "Vegetables"
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees F (175 degrees C). Spray a jellyroll pan with non-stick cooking spray.",
+      "Pat crescent roll dough into a jellyroll pan. Let stand 5 minutes. Pierce with fork.",
+      "Bake for 10 minutes, let cool.",
+      "In a medium-sized mixing bowl, combine sour cream, cream cheese, dill weed, garlic salt and ranch dip mix. Spread this mixture on top of the cooled crust. Arrange the onion, carrot, celery, broccoli, radish, bell pepper and broccoli on top of the creamed mixture. Cover and let chill. Once chilled, cut it into squares and serve."
+    ],
+    "bookmarked": false,
+    "video": "https://www.youtube.com/embed/TBrz3chSss0"
+  },
+  {
+    "id:": 2,
+    "title": "Garlic Butter Sauteed Zucchini",
+    "skill_level": "Easy",
+    "time": "30 minutes",
+    "recipe_url": "garliczucchini.jpeg",
+    "description": "Sauteed zucchini is a quick, easy, and healthy side. Makes 4 servings.",
+    "ingredients": [
+      "1 ¼ pounds chopped zucchini (2 medium)",
+      "1 tablespoon butter",
+      "1 tablespoon minced garlic (3 cloves)",
+      "1 scallion, thinly sliced",
+      "1 to 2 teaspoons fresh lemon juice or red wine vinegar",
+      "1/4 cup fresh grated parmesan or pecorino cheese",
+      "Salt and fresh ground black pepper"
+    ],
+    "instructions": [
+      "It’s up to you as to how you cut the zucchini. You can slice the zucchini into rounds, cut into half moons or chop into bitesize pieces.",
+      "Melt the butter in a wide skillet over medium-high heat. Add the zucchini and garlic and cook, stirring occasionally until the zucchini is browned in places and tender, 3 to 5 minutes.",
+      "Turn off the heat, and then stir in the scallions, a squeeze of lemon juice, and cheese (if using). Taste, and then season with a pinch of salt and black pepper. Serve immediately."
+    ],
+    "bookmarked": false
+  },
+  {
+    "id:": 3,
+    "title": "Spaghetti and Meatballs",
+    "skill_level": "Medium",
+    "time": "45 minutes",
+    "recipe_url": "spaghetti.jpeg",
+    "description": "Makes 3 servings.",
+    "ingredients": [
+      "1 lb. pasta",
+      "1 lb. ground beef",
+      "1/3 c. bread crumbs",
+      "1/4 c. finely chopped parsley",
+      "1/4 c. freshly grated Parmesan, plus more for serving",
+      "1 egg",
+      "2 garlic cloves, minced",
+      "1/2 tsp. red pepper flakes",
+      "2 tbsp. extra-virgin olive oil",
+      "1/2 c. onion, finely chopped",
+      "1 (28-oz.) can crushed tomatoes"
+    ],
+    "instructions": [
+      "In a large pot of boiling salted water, cook spaghetti according to package instructions. Drain.",
+      "In a large bowl, combine beef with bread crumbs, parsley, Parmesan, egg, garlic, 1 teaspoon salt, and red pepper flakes. Mix until just combined then form into 16 balls.",
+      "In a large pot over medium heat, heat oil. Add meatballs and cook, turning occasionally, until browned on all sides, about 10 minutes. Transfer meatballs to a plate.",
+      "Add onion to pot and cook until soft, 5 minutes. Add crushed tomatoes and bay leaf. Season with salt and pepper and bring to a simmer. Return meatballs to pot and cover. Simmer until sauce has thickened, 8 to 10 minutes.",
+      "Serve pasta with a healthy scoop of meatballs and sauce. Top with Parmesan before serving."
+    ],
+    "bookmarked": false
+  },
+  {
+    "id:": 4,
+    "title": "Zucchini Bread",
+    "skill_level": "Easy",
+    "time": "60 minutes",
+    "recipe_url": "zucchinibread.jpeg",
+    "description": "Serves 4 people. Expires in 3 days.",
+    "ingredients": [
+      "3 to 4 cups grated fresh zucchini (310g to 425g)",
+      "3/4 cup (170g) unsalted butter, melted, plus more for greasing the pans",
+      "3 cups (390g) all purpose flour",
+      "1 teaspoon baking soda",
+      "1 teaspoon baking powder",
+      "2 teaspoons cinnamon",
+      "1/2 teaspoon ground ginger",
+      "1/4 teaspoon ground nutmeg",
+      "1 1/3 cup (270g) sugar",
+      "2 large eggs"
+    ],
+    "instructions": [
+      "Grease and flour two 8 x 4 inch pans. Preheat oven to 325 degrees F (165 degrees C).",
+      "Sift flour, salt, baking powder, soda, and cinnamon together in a bowl.",
+      "Beat eggs, oil, vanilla, and sugar together in a large bowl. Add sifted ingredients to the creamed mixture, and beat well. Stir in zucchini and nuts until well combined. Pour batter into prepared pans.",
+      "Bake for 40 to 60 minutes, or until tester inserted in the center comes out clean. Cool in pan on rack for 20 minutes. Remove bread from pan, and completely cool."
+    ],
+    "bookmarked": false
+  },
+  {
+    "id:": 5,
+    "title": "Ground Beef Tacos",
+    "skill_level": "Medium",
+    "time": "45 minutes",
+    "recipe_url": "beeftacos.jpeg",
+    "description": "Serves 5 poeple.",
+    "ingredients": [
+      "Olive oil",
+      "Lean ground beef",
+      "Garlic",
+      "Spices – chili powder, cumin, onion powder, salt and pepper",
+      "Tomato sauce",
+      "Chicken broth",
+      "Tortillas"
+    ],
+    "instructions": [
+      "Preheat the oven to 325 degrees F.",
+      "For the beef: In a skillet over medium-high heat, add the olive oil and onions. Cook until starting to soften, then add the ground beef. Cook the meat until it's totally browned, then drain the fat. Add the chili powder, cumin, paprika, salt, black pepper and crushed red pepper and stir to combine. Add 1/2 cup hot water and stir. Reduce the heat to low and simmer for 15 minutes.",
+      "For the fixins: Meanwhile, wrap the flour tortillas in foil and warm in the oven for 20 to 25 minutes. Right before serving, crisp the taco shells in the oven according to package instructions.",
+      "Serve with the grated cheese, diced tomatoes and shredded lettuce."
+    ],
+    "bookmarked": false
+  },
+  {
+    "id:": 6,
+    "title": "New England Clam Chowder",
+    "skill_level": "Medium",
+    "time": "60 minutes",
+    "recipe_url": "englandclamchowder.jpeg",
+    "description": "Serves 6 people.",
+    "ingredients": [
+      "4 center-cut bacon strips",
+      "2 celery ribs, chopped",
+      "1 large onion, chopped",
+      "1 garlic clove, minced",
+      "3 small potatoes, peeled and cubed",
+      "1 cup water",
+      "1 bottle (8 ounces) clam juice",
+      "2 cups fat-free half-and-half, divided"
+    ],
+    "instructions": [
+      "Place diced bacon in large stock pot over medium-high heat. Cook until almost crisp; add onions, and cook 5 minutes",
+      "Stir in water and potatoes, and season with salt and pepper. Bring to a boil, and cook uncovered for 15 minutes, or until potatoes are fork tender.",
+      "Pour in half-and-half, and add butter. Drain clams, reserving clam liquid; stir clams and 1/2 of the clam liquid into the soup.",
+      "Cook for about 5 minutes, or until heated through. Do not allow to boil."
+    ],
+    "bookmarked": false
+  },
+  {
+    "id:": 7,
+    "title": "Beef Wellington",
+    "skill_level": "Hard",
+    "time": "60 minutes",
+    "recipe_url": "beefwellington.jpeg",
+    "description": "Serves 1 person.",
+    "ingredients": [
+      "3 pounds center-cut beef tenderloin",
+      "2 tablespoons unsalted butter",
+      "2 garlic cloves, minced",
+      "2 teaspoons fresh thyme leaves",
+      "1 tablespoon dry sherry or dry vermouth",
+      "2 tablespoons Dijon mustard",
+      "16 ounces puff pastry, thawed",
+      "Kosher salt and black pepper"
+    ],
+    "instructions": [
+      "Wrap each piece of beef tightly in a triple layer of cling film to set its shape, then chill overnight.",
+      "Remove the cling film, then quickly sear the beef fillets in a hot pan with a little olive oil for 30-60 seconds until browned all over and rare in the middle. Remove from the pan and leave to cool.",
+      "Cut the pastry in half, place on a lightly floured surface and roll each piece into a rectangle large enough to envelop one of the beef fillets. Chill in the refrigerator.",
+      "Lay a large sheet of cling film on a work surface and place 4 slices of Parma ham in the middle, overlapping them slightly, to create a square. Spread half the duxelle evenly over the ham.",
+      "Season the beef fillets, then place them on top of the mushroom-covered ham. Using the cling film, roll the Parma ham over the beef, then roll and tie the cling film to get a nice, evenly thick log. Repeat this step with the other beef fillet, then chill for at least 30 minutes.",
+      "Brush the pastry with the egg wash. Remove the cling film from the beef, then wrap the pastry around each ham-wrapped fillet. Trim the pastry and brush all over with the egg wash. Cover with cling film and chill for at least 30 minutes.",
+      "Serve the beef wellingtons sliced, with the sauce as an accompaniment."
+    ],
+    "bookmarked": false
+  },
+  {
+    "id:": 8,
+    "title": "Roast Lamb",
+    "skill_level": "Hard",
+    "time": "60 minutes",
+    "recipe_url": "roastlamb.jpeg",
+    "description": "Dificult recipe that serves a party of 6.",
+    "ingredients": [
+      "1 (5 to 6 pound) trimmed bone-in leg of lamb",
+      "4 cloves garlic, minced",
+      "1 tablespoon olive oil",
+      "1 tablespoon chopped fresh rosemary",
+      "1 tablespoon chopped fresh thyme leaves",
+      "1 tablespoon Dijon mustard",
+      "1 tablespoon kosher salt",
+      "2 teaspoons ground black pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 450º and place oven rack in lower third of oven. In a small bowl, mix together garlic, rosemary, thyme, and 1 tablespoon oil and season generously with salt and pepper. Rub all over lamb.",
+      "In a 9x13 baking dish, toss potatoes with remaining oil and season with more salt and pepper. Place lamb on top of potatoes and roast until internal temperature reaches 145º, about 1 hour.",
+      "Let rest 15 minutes, remove twine, then slice roast and serve."
+    ],
+    "bookmarked": false
+  },
+  {
+    "id:": 9,
+    "title": "Lemony Shrimp Risotto",
+    "skill_level": "Hard",
+    "time": "45 minutes",
+    "recipe_url": "risotto.jpg",
+    "description": "Fan favorite pasta that serves 4.",
+    "ingredients": [
+      "10 ounce Shrimp",
+      "1/4 cup Parmesan Cheese",
+      "1 tablespoon olive oil",
+      "3 cloves garlic, minced",
+      "1 Yellow Onion",
+      "1 Zucchini"
+    ],
+    "instructions": [
+      "Heat 1 tablespoon butter in a large skillet over medium heat and add shallots and garlic. Cook until shallots are soft and translucent, 3 to 5 minutes. Season with salt and pepper. Pour in white wine and simmer until wine is reduced by half. Reduce heat to medium-low and stir in rice. Keep stirring until all the liquid has been absorbed.",
+      "Next add hot stock, 1/2 cup at a time, stirring frequently until liquid is absorbed. Continue this process, adding stock 1/2 cup at a time, stirring after each addition, until rice is al dente. You may not need the full 3 cups so test the rice after 20 minutes or when you've used 2 1/2 cups of the stock and adjust accordingly.",
+      "Turn heat to lowest setting and add Parmesan cheese, cream, and lemon juice. Stir until cheese has melted and everything has been incorporated. Adjust seasoning with salt and pepper and turn heat off.",
+      "Meanwhile, melt 1 tablespoon butter in a small skillet over medium heat and add shrimp. Cook until shrimp tails curl up, about 2 minutes. Be careful not to overcook.",
+      "To serve, spoon risotto into bowls, top with shrimp and garnish with fresh parsley and lemon wedge if desired."
+    ],
+    "bookmarked": false
+  }
+]
